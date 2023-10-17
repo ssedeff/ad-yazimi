@@ -1,0 +1,10 @@
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\bin\Debug\ad.exe.config
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\bin\Debug\ad.exe
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\bin\Debug\ad.pdb
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.csproj.AssemblyReference.cache
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.Form1.resources
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.Properties.Resources.resources
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.csproj.GenerateResource.cache
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.csproj.CoreCompileInputs.cache
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.exe
+C:\Users\90544\OneDrive\Masaüstü\ders\ad\ad\obj\Debug\ad.pdb
